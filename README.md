@@ -30,3 +30,6 @@ http://www.google.com/publicdata/directory
 
 https://data.worldbank.org/
 
+Book
+
+Visualization Analysis & Design - Tamara Munzner
